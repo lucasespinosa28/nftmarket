@@ -1,0 +1,46 @@
+{
+    "streamId": "k2t6wyfsu4pfybfjvcqnx48v51as1otx588s9kr0i0yxkha7dhgd7xuwtzltf7",
+    "state": {
+      "type": 0,
+      "content": {
+        "data": {
+          "price": 5000000000000000,
+          "creator": "0xC3AD9391150F96Ce4f254F81F440C203Bae14e51",
+          "metadata": "https://ipfs.io/ipfs/QmTN32qBKYqnyvatqfnU8ra6cYUGNxpYziSddCatEmopLR/metadata/api/item/4.json",
+          "bytesData": "0x22516d544e333271424b59716e7976617471666e5538726136635955474e7870597a69536464436174456d6f704c522f6d657461646174612f6170692f6974656d2f332e6a736f6e3530303030303030303030303030303030784333414439333931313530463936436534663235344638314634343043323033426165313465353122"
+        }
+      },
+      "metadata": {
+        "family": "kjzl6cwe1jw14aj9wlukquo2p338sfpgmmkg2r15kod2ijrhmyz4lf0bhmzfp19",
+        "controllers": [
+          "did:key:z6MkfBkV7ed8XvT5Rx6tLuR9xTNYDsoGXAXejSqzhnqpt2bT"
+        ],
+        "schema": "ceramic://k3y52l7qbv1fry9k49jwz135yslp4lcfnuelz6r4msv44kbxax7m1oosr6m6gts00"
+      },
+      "signature": 2,
+      "anchorStatus": "ANCHORED",
+      "log": [
+        {
+          "cid": "bafyreicbne2pq2vxyjz4ti67tanbkgekpekutpmeyzxwfu43xji2il47gm",
+          "type": 0
+        },
+        {
+          "cid": "bagcqcera4p6japx7salcjl3phakkz3tvdsabizo6szuhegn3zra7xuu5gidq",
+          "type": 1
+        },
+        {
+          "cid": "bafyreib63yedrm3ekbfhwkzy65s4cc3n26qnkzippvjvq3hg66nola6l5a",
+          "type": 2,
+          "timestamp": 1634620584
+        }
+      ],
+      "anchorProof": {
+        "root": "bafyreicglqdau3mhxdmrdyiyvjieof52bjegbmci7fzj55iphm5ftmpneq",
+        "txHash": "bagjqcgzazg6eblafz4nheie55pg3bkx7ybol2nnuo6bpfzfsigu4jplr425q",
+        "chainId": "eip155:3",
+        "blockNumber": 11257781,
+        "blockTimestamp": 1634620584
+      },
+      "doctype": "tile"
+    }
+  }

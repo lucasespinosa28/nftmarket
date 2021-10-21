@@ -1,0 +1,30 @@
+{
+"$schema": "http://json-schema.org/draft-07/schema#",
+"title": "NftMarketInfo",
+"type": "object",
+"properties": {
+  "data": {
+    "type": "object",
+    "description": "data of this nft",
+    "properties": {
+      "creator": {
+        "type": "string",
+        "description": "Address of creator this nft."
+      },
+      "metadata": {
+        "type": "string",
+        "description": "url with metadata of this nft"
+      },
+      "price": {
+        "type": "number",
+        "description": "Price of nft to first sell."
+      }
+    },
+    "required": [
+      "creator",
+      "metadata",
+      "price"
+    ]
+    } 
+  }
+}
