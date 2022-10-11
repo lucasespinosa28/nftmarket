@@ -36,6 +36,6 @@
     "prepublishOnly": "package-check"
   },
   "dependencies": {
-    "@glazed/types": "^0.1.3"
+    "@glazed/types": "^0.2.0"
   }
 }
